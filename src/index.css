@@ -1,0 +1,6 @@
+body {
+  background-color: azure;
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
